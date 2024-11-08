@@ -230,13 +230,6 @@ stargazer(model_voteshare_combined, type = "latex")
 
 #Question 5.3
 
-#The identical components in the outputs from Question 4 and Question 5 reflect the unique contribution of presvote to voteshare 
-#after accounting for difflog. In the multiple regression model, the coefficient 
-#for presvote represents its independent effect on voteshare, separate from the 
-#influence of difflog. Similarly, the regression in Question 4—using 
-#residuals_voteshare and residuals_presvote—captures the relationship between 
-#voteshare and presvote that is not explained by difflog. This alignment occurs 
-#because both analyses isolate the effect of presvote on voteshare independently 
-#of difflog.
+
 
 
